@@ -27,14 +27,14 @@ var colorList = ["Red", "Black", "White", "Blue", "Green", "Pink"];
 
 var imageListB = new Array();
 
-for(var b = 0; b < 8; b++)
+for (var b = 0; b < 8; b++)
 {
   imageListB[b] = "images/oil/thumbs/artwork_" + (b+1) +".jpg";
 }
 
 var imageListC = new Array();
 
-for(var c = 0; c < 10; c++)
+for (var c = 0; c < 10; c++)
 {
   imageListC[c] = "images/watercolor/thumbs/artwork_" + (c+1) +".jpg";
 }
